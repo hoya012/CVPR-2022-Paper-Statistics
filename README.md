@@ -31,7 +31,7 @@ Inspired by [`CVPR-2021-Paper-Statistics`](https://github.com/hoya012/CVPR-2021-
 # Analysis and Visualization Code (Jupyter Notebook)
 
 - The above data can be obtained from a simple jupyter notebook script.
-   - [`CVPR_paper_statistics_using_chrome.ipynb`](https://github.com/hoya012/CVPR-2022-Paper-Statistics/blob/main/CVPR2022_paper_statistics_using_chrome.ipynb) --> Use website data format
+   - [`CVPR_paper_statistics_using_chrome.ipynb`](https://github.com/hoya012/CVPR-2022-Paper-Statistics/blob/main/2022_cvpr/CVPR2022_paper_statistics_using_chrome.ipynb) --> Use website data format
 
 ## Prerequisites
 - python3.5
